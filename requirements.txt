@@ -1,3 +1,4 @@
-Flask
-Fla
-sk-SQLAlchemySQLAlchemy
+Flask==3.1.2
+# atau jika pakai FastAPI:
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
